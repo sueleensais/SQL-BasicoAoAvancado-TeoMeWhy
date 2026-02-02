@@ -42,6 +42,9 @@ Durante o curso, utilizei dados reais (anonimizados) e fiz muitos exercícios pr
 
 No projeto prático, desenvolvi uma tabela para entender o comportamento de clientes em diferentes janelas temporais (7, 14, 28 e 56 dias). O projeto foi robusto, com quase 200 linhas de código, e consolidou todo o aprendizado em um cenário realista.
 
+👉 [Clique aqui para ver o arquivo do projeto](https://github.com/sueleensais/SQL-BasicoAoAvancado-TeoMeWhy/blob/main/projeto_prático/etl_projeto.sql)
+
+
 ---
 
 ## 🚀 Como executar
@@ -53,3 +56,4 @@ No projeto prático, desenvolvi uma tabela para entender o comportamento de clie
    git clone https://github.com/sueleensais/SQL-BasicoAoAvancado-TeoMeWhy.git
 3. Abra os arquivos no VSCode
 4. Execute os scripts no SQLite
+

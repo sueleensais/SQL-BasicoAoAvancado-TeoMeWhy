@@ -50,4 +50,5 @@ No projeto prático, desenvolvi uma tabela para entender o comportamento de clie
 2. Clone este repositório:  
    ```bash
 
-   git clone https://github.com/seuusuario/sql-primeiras-magias.git
+   git clone [https://github.com/seuusuario/sql-primeiras-magias](https://github.com/sueleensais/SQL-BasicoAoAvancado-TeoMeWhy.git
+

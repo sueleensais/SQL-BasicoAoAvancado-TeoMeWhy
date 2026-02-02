@@ -52,10 +52,4 @@ No projeto prático, desenvolvi uma tabela para entender o comportamento de clie
 
    git clone https://github.com/sueleensais/SQL-BasicoAoAvancado-TeoMeWhy.git
 3. Abra os arquivos no VSCode
-   cd SQL-BasicoAoAvancado-TeoMeWhy
 4. Execute os scripts no SQLite
-.read nome_do_arquivo.sql
-
-
-
-

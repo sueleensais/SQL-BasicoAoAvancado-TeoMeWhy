@@ -1,4 +1,4 @@
-# SQL - Primeiras Magias 🪄
+# SQL - Primeiras Magias - Do Zero ao Avançado
 
 Este repositório contém meus estudos e práticas do curso **"SQL – Primeiras Magias"**, ministrado por [Téo Calvo] na plataforma **TeoMeWhy** (https://www.teomewhy.org).  
 Foi meu primeiro contato com bancos de dados relacionais e com a linguagem SQL, e a experiência me levou do zero até técnicas avançadas.
@@ -51,4 +51,5 @@ No projeto prático, desenvolvi uma tabela para entender o comportamento de clie
    ```bash
 
    git clone [https://github.com/seuusuario/sql-primeiras-magias](https://github.com/sueleensais/SQL-BasicoAoAvancado-TeoMeWhy.git
+
 

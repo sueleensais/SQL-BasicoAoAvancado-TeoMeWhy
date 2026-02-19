@@ -5,9 +5,7 @@ Foi meu primeiro contato com bancos de dados relacionais e com a linguagem SQL, 
 
 Durante o curso, utilizei dados reais (anonimizados) e fiz muitos exercícios práticos.
 
-
-## 📚 Conteúdo do curso
-
+# Conteúdo do curso
 
 - **Fundamentos Básicos**  
   Conceitos de banco de dados, SGBD, tabelas, registros, chaves primárias e estrangeiras, constraints e sequências.  
@@ -36,9 +34,8 @@ Durante o curso, utilizei dados reais (anonimizados) e fiz muitos exercícios pr
 - **DDL e DML**  
   `CREATE`, `DROP`, `INSERT`, `DELETE`, `UPDATE`.  
 
----
 
-## 🛠 Projeto Prático
+# Projeto Prático
 
 No projeto prático, desenvolvi uma tabela para entender o comportamento de clientes em diferentes janelas temporais (7, 14, 28 e 56 dias) e responder aos problemas de negócio abaixo:
 
@@ -55,9 +52,7 @@ No projeto prático, desenvolvi uma tabela para entender o comportamento de clie
 
  O projeto foi robusto, com quase 200 linhas de código, e consolidou todo o aprendizado em um cenário realista. 
 
----
-
-## 🚀 Como executar
+##  Como executar
 
 1. Instale o [SQLite](https://www.sqlite.org/download.html).  
 2. Clone este repositório:  
@@ -66,6 +61,7 @@ No projeto prático, desenvolvi uma tabela para entender o comportamento de clie
    git clone https://github.com/sueleensais/SQL-BasicoAoAvancado-TeoMeWhy.git
 3. Abra os arquivos no VSCode
 4. Execute os scripts no SQLite
+
 
 
 

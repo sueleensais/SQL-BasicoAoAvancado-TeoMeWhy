@@ -3,7 +3,7 @@
 Este repositório contém meus estudos e práticas do curso **"SQL – Primeiras Magias"**, ministrado por Téo Calvo na plataforma **TeoMeWhy** (https://www.teomewhy.org).  
 Foi meu primeiro contato com bancos de dados relacionais e com a linguagem SQL, e a experiência me levou do zero até técnicas avançadas.
 
-Durante o curso, utilizei dados reais (anonimizados) e fiz muitos exercícios práticos.
+Durante o curso, utilizei dados reais (anonimizados) e coloquei em prática muitos exercícios.
 
 # Conteúdo do curso
 
@@ -34,7 +34,6 @@ Durante o curso, utilizei dados reais (anonimizados) e fiz muitos exercícios pr
 - **DDL e DML**  
   `CREATE`, `DROP`, `INSERT`, `DELETE`, `UPDATE`.  
 
-
 # Projeto Prático
 
 No projeto prático, desenvolvi uma tabela para entender o comportamento de clientes em diferentes janelas temporais (7, 14, 28 e 56 dias) e responder aos problemas de negócio abaixo:
@@ -61,6 +60,7 @@ No projeto prático, desenvolvi uma tabela para entender o comportamento de clie
    git clone https://github.com/sueleensais/SQL-BasicoAoAvancado-TeoMeWhy.git
 3. Abra os arquivos no VSCode
 4. Execute os scripts no SQLite
+
 
 
 

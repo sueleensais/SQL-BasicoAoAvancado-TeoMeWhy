@@ -1,4 +1,4 @@
-# SQL - Primeiras Magias - Do Zero ao Avançado
+# SQL - Primeiras Magias (Do Zero ao Avançado)
 
 Este repositório contém meus estudos e práticas do curso **"SQL – Primeiras Magias"**, ministrado por Téo Calvo na plataforma **TeoMeWhy** (https://www.teomewhy.org).  
 Foi meu primeiro contato com bancos de dados relacionais e com a linguagem SQL, e a experiência me levou do zero até técnicas avançadas.
@@ -244,3 +244,4 @@ SELECT
         1. * QtdeTransações28 / QtdeTransaçõesVida AS Engajamento28xVida
 FROM tb_join
 ```
+

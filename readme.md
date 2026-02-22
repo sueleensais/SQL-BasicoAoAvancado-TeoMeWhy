@@ -244,24 +244,3 @@ SELECT
         1. * QtdeTransações28 / QtdeTransaçõesVida AS Engajamento28xVida
 FROM tb_join
 ```
-
-##  Como executar
-
-1. Instale o [SQLite](https://www.sqlite.org/download.html).  
-2. Clone este repositório:  
-   ```bash
-
-   git clone https://github.com/sueleensais/SQL-BasicoAoAvancado-TeoMeWhy.git
-3. Abra os arquivos no VSCode
-4. Execute os scripts no SQLite
-
-
-
-
-
-
-
-
-
-
-
